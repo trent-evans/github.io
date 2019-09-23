@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset = "utf-8">
+<title>This is a title</title>
+</head>
+
+<body>
+<h1>This is the first header in the body</h1>
+I'm typing some stuff
+<p>
+I'm typing some other stuff
+</p>
+
+<hr>
+<address></address>
+<!-- hhmts start -->Last modified: Mon Sep 23 09:16:10 MDT 2019 <!-- hhmts end -->
+</body> </html>
