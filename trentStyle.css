@@ -1,0 +1,20 @@
+body{ 
+background-color: linen;
+ }
+
+img{ 
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+ }
+
+figcaption{ 
+text-align: center;
+ }
+
+h2 { 
+color: red;
+/* Make the Master of Software Development a standount color */
+}
+
