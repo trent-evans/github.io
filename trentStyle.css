@@ -2,6 +2,10 @@ body{
 background-color: linen;
  }
 
+ #homepageHeadingImage{
+    width: 100%;
+}
+
 div{ 
 text-align: center;
  }
@@ -25,4 +29,6 @@ h2 {
 color: red;
 /* Make the Master of Software Development a standount color */
 }
+
+
 
