@@ -1,5 +1,21 @@
 body{ 
-background-color: linen;
+background-color: gray;
+ }
+
+ .headerText{
+     color: whitesmoke;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+ }
+
+ .headerName{
+     font-size: x-large;
+ }
+
+ .headerTitle{
+     font-size: large;
  }
 
  #homepageHeadingImage{
