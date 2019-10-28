@@ -3,7 +3,6 @@ background-color: gray;
  }
 
  #headerText{
-     color: white;
      position: absolute;
      top: 50%;
      left: 50%;
@@ -12,13 +11,15 @@ background-color: gray;
  }
 
  #headerName{
-     font-size: x-large;
+     font-size: 20pt;
      text-align: center;
+     color: white;
  }
 
  #headerTitle{
-     font-size: large;
+     font-size: 15pt;
      text-align: center;
+     color: white;
  }
 
  #homepageHeadingImage{
