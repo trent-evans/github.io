@@ -2,25 +2,12 @@ body{
 background-color: gray;
  }
 
- #headerText{
-     position: absolute;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%,-50%);
-     text-align: center;
- }
-
- #headerName{
-     font-size: 20pt;
-     text-align: center;
-     color: white;
- }
-
- #headerTitle{
-     font-size: 15pt;
-     text-align: center;
-     color: white;
- }
+ .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
  #homepageHeadingImage{
     width: 100%;
