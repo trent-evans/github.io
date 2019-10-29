@@ -9,16 +9,36 @@ background-color: gray;
     transform: translate(-50%, -50%);
     color: white;
     text-align: center;
-    font-size: 25pt;
+    font-size: 35pt;
   }
 
  #homepageHeadingImage{
     width: 100%;
 }
 
-#QuickLinks{ 
-text-align: center;
- }
+#navbar{
+   overflow: hidden;
+   background-color: steelblue;
+}
+
+#navbar a{
+   float: left;
+   display: block;
+   color: white;
+   text-align: center;
+   padding: 14px;
+   text-decoration: none;
+}
+
+.sticky{
+   position: fixed;
+   top: 0;
+   width: 100%;
+}
+
+.sticky + .content{
+   padding-top: 60px;
+}
 
 h1{ 
 text-align: center;
