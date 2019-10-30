@@ -30,6 +30,10 @@ background-color: gray;
    text-decoration: none;
 }
 
+#navbar a.hover{
+   background-color: slategray;
+}
+
 .content{
    padding: 16px;
 }
@@ -41,7 +45,7 @@ background-color: gray;
 }
 
 .sticky + .content{
-   padding-top: 60px;
+   padding-top: 70px;
 }
 
 h1{ 
