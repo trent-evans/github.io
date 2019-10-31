@@ -2,15 +2,15 @@ body{
 background-color: gray;
  }
 
- .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-align: center;
-    font-size: 35pt;
-  }
+.centered {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   color: white;
+   text-align: center;
+   font-size: 35pt;
+}
 
  #homepageHeadingImage{
     width: 100%;
@@ -35,7 +35,7 @@ background-color: gray;
 }
 
 .content{
-   padding: 16px;
+   padding: 0px;
 }
 
 .sticky{
@@ -45,7 +45,7 @@ background-color: gray;
 }
 
 .sticky + .content{
-   padding-top: 70px;
+   padding-top: 80px;
 }
 
 h1{ 
