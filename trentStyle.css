@@ -30,7 +30,7 @@ background-color: gray;
    text-decoration: none;
 }
 
-#navbar a.hover{
+#navbar a:hover{
    background-color: slategray;
 }
 
@@ -44,8 +44,9 @@ background-color: gray;
    width: 100%;
 }
 
+/* Prevent sudden movement */
 .sticky + .content{
-   padding-top: 70px;
+   padding-top: 60px;
 }
 
 h1{ 
